@@ -1,0 +1,24 @@
+#left_vid {
+	float: left;
+	padding: 10px;
+}
+
+#right_vid {
+	float: right;
+	padding: 10px;
+}
+
+body > div.container > div{
+	background-color: #FFF;
+}
+
+#left_desc {
+	float:right; 
+	margin: 5px;
+	font-size: 1em;
+}
+#right_desc {
+	float:left; 
+	margin: 5px;
+	font-size: 1em;
+}
